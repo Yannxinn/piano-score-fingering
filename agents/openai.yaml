@@ -1,0 +1,6 @@
+interface:
+  display_name: "Piano Score Fingering 2.0"
+  short_description: "Verify score facts, then generate and review two-hand fingering"
+  default_prompt: "Use $piano-score-fingering-v2 to recognize this piano score measure by measure, lock verified notehead and rest facts, generate fingering, and deliver an annotated PDF."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"

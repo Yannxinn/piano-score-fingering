@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<score-partwise version="4.0">
+  <part-list><score-part id="P1"><part-name>Piano</part-name></score-part></part-list>
+  <part id="P1"><measure number="1">
+    <attributes><divisions>1</divisions></attributes>
+    <note><pitch><step>C</step><octave>5</octave></pitch><duration>1</duration><voice>1</voice><staff>1</staff></note>
+    <note><pitch><step>D</step><octave>5</octave></pitch><duration>1</duration><voice>1</voice><staff>1</staff></note>
+    <backup><duration>2</duration></backup>
+    <note><pitch><step>C</step><octave>4</octave></pitch><duration>1</duration><voice>2</voice><staff>1</staff></note>
+    <note><chord/><pitch><step>G</step><octave>4</octave></pitch><duration>1</duration><voice>2</voice><staff>1</staff></note>
+    <note><pitch><step>F</step><octave>4</octave></pitch><duration>1</duration><voice>2</voice><staff>1</staff></note>
+  </measure></part>
+</score-partwise>
