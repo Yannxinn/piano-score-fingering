@@ -1,9 +1,9 @@
 ---
-name: piano-score-fingering-v2
+name: piano-score-fingering
 description: Read piano scores from images, PDFs, MusicXML, MXL, or MuseScore files; preserve the page coordinates of every notehead; generate playable two-hand fingering with the bundled dynamic hand-position search; and deliver an annotated PDF or fingered MusicXML. Use for piano-score recognition, automatic fingering, coordinate-accurate score annotation, fingering review, and practice guidance without requiring PianoPlayer, MuseScore, ReportLab, or online OMR services.
 ---
 
-# Piano Score Fingering 2.0
+# Piano Score Fingering
 
 Complete the workflow when the host can read files, inspect score pages, run Python, and write output files. Use only the bundled scripts and capabilities already present in the host. Do not require the user to install software, Python packages, browser extensions, or online recognition services.
 
